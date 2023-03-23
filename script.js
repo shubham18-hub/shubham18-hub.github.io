@@ -7,12 +7,12 @@ const COMMANDS = {
   skills:
     "Ethical Hacking | Penetration Testing|",
   education:
-    "BCA -  Bachelor of Computer Applications Specialization in Computer Applications",
+    "BCA -  Bachelor of Computer Applications",
   experience:'<span class="code">Total experience: As a Content Manager in Oye Be Smartest for 3 months, Currently working as a Cyber Security Analyst in HackerBro Technologies</span>',
   certifications: 
     "Microsoft Office Specialist PowerPoint 2016<br> Microsoft Office Specialist Word 2016<br>Microsoft Office Specialist Excel 2016<br>MTA : Networking Fundamentals<br>",
   contact:
-    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/shubhamsinghdarmwal/' class='success link'>Linkedin</a>, <a href='mailto:sdarmwal17@gmail.com' class='success link'>Email</a>,"
+    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/shubhamsinghdarmwal/' class='success link'>Linkedin</a>, <a href='mailto:sdarmwal17@gmail.com' class='success link'>Email</a>."
 };
 let userInput, terminalOutput;
 
